@@ -11,6 +11,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
 
 
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+
   
 
 
@@ -139,7 +143,8 @@
 h2 {
     color: rgba(255, 0, 0, 0.671);
     padding: 10px;
-    font-family: 'Rubik Mono One', sans-serif;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 2em;
 }
 
 p {
