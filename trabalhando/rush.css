@@ -2,6 +2,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
 
   
 
@@ -42,7 +50,6 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
-
     }
 
 
@@ -130,9 +137,9 @@
 
 
 h2 {
-    color: red;
+    color: rgba(255, 0, 0, 0.671);
     padding: 10px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Rubik Mono One', sans-serif;
 }
 
 p {
