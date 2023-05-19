@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/*
+@media screen and (min-width: 768px) and (max-width: 1400px) {
+
+    * {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    body {
+        background-image: url(rush-salvou.jpg);
+        background-color: black;
+        background-size: cover;
+    }
+
+
+
+    #rodape {
+        display: inline-block;
+        color: rgba(255, 255, 255, 0.692);
+        position: relative;
+        top: 85vh;
+        left: 30px;
+
+    }
+
+    h3 {
+        color: red;
+    }
+
+    div {
+        display: inline-table;
+        position: relative;
+        top: 50vh;
+        color: rgba(255, 255, 255, 0.651);
+        width: 50vh;
+        left: 30px;
+        text-align: justify;
+        }
+
+
+    img {
+        position: relative;
+        top: 430px;
+        left: 160px;
+    }
+
+}
+*/
